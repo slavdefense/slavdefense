@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My background in aerospace engineering and project management gives me solid engineering fundamentals and an aptitude for managing complex projects.
-Currently, I am looking for a role in full stack web development.
+I am looking for a role in full stack web development. 
 
 This is my [Linkedin](https://www.linkedin.com/in/sagun-shrestha-9a67b49a/)
 
